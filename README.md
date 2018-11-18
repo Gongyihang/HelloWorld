@@ -6,20 +6,12 @@
 
 
 ### :pencil2: 算法
-- [Leetcode 题解](https://github.com/CyC2018/InnterviewNotes/blob/master/notes/Leetcode%20题解.md)
-
-  对题目做了一个大致分类，并对每种题型的解题思路做了总结。
-  
- - [算法](https://github.com/CyC2018/InnterviewNotes/blob/master/notes/算法.md)
-
-   排序、并查集、栈和队列、红黑树、散列表。
+- [Leetcode 题解]
+ - [算法](https://github.com/Gongyihang/HelloWorld/blob/master/Leetcode/leetcode.md)
 
 ### :computer: 操作系统
 
-  基本实现原理以及基本操作。
-
 ### :cloud: 网络 
-
 
 ### :couple: 面向对象
 
