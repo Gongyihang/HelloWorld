@@ -6,25 +6,14 @@
 
 
 ### :pencil2: 算法
-- [Leetcode 题解]
- - [算法](https://github.com/Gongyihang/HelloWorld/blob/master/Leetcode/leetcode.md)
-
+- [Leetcode 题解](https://github.com/Gongyihang/HelloWorld/blob/master/Leetcode/leetcode.md)
 ### :computer: 操作系统
-
 ### :cloud: 网络 
-
 ### :couple: 面向对象
-
 ### :floppy_disk: 数据库 
-
 ### :coffee: Java
-
 ### :bulb: 系统设计 
-
 ### :hammer: 工具 
-
 ### :speak_no_evil: 编码实践 
-
 ### :memo: 后记 
-
 #### About
