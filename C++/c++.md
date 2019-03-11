@@ -71,8 +71,6 @@ public int[] twoSum(int[] numbers, int target) {
 
 
 
-# C的爸爸和C的区别
-
 <!-- GFM-TOC -->
 # Contents
 * [C的爸爸和C的区别](#c的爸爸和c的区别)
