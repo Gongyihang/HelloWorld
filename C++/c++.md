@@ -1,71 +1,12 @@
 <!-- GFM-TOC -->
-* [C\+\+和C的区别](#c\+\+和c的区别)
-    * [双指针](#双指针)
-<!-- GFM-TOC -->
-
-
-# C\+\+和C的区别
-
-## 双指针
-
-双指针主要用于遍历数组，两个指针指向不同的元素，从而协同完成任务。
-
-**有序数组的 Two Sum** 
-
-[Leetcode ：167. Two Sum II - Input array is sorted (Easy)](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)
-
-```html
-Input: numbers={2, 7, 11, 15}, target=9
-Output: index1=1, index2=2
-```
-
-题目描述：在有序数组中找出两个数，使它们的和为 target。
-
-使用双指针，一个指针指向值较小的元素，一个指针指向值较大的元素。指向较小元素的指针从头向尾遍历，指向较大元素的指针从尾向头遍历。
-
-- 如果两个指针指向元素的和 sum == target，那么得到要求的结果；
-- 如果 sum > target，移动较大的元素，使 sum 变小一些；
-- 如果 sum < target，移动较小的元素，使 sum 变大一些。
-
-```java
-public int[] twoSum(int[] numbers, int target) {
-    int i = 0, j = numbers.length - 1;
-    while (i < j) {
-        int sum = numbers[i] + numbers[j];
-        if (sum == target) {
-            return new int[]{i + 1, j + 1};
-        } else if (sum < target) {
-            i++;
-        } else {
-            j--;
-        }
-    }
-    return null;
-}
-```
-
-
-
-<!-- GFM-TOC -->
-# Contents
 * [C的爸爸和C的区别](#c的爸爸和c的区别)
-* [C++11常用知识点](#c++11常用知识点)
-    * [auto关键字]
-    * [override关键字]
-    * [final关键字]
-    * [delete关键字]
-    * [for-each循环]
-    * [右值及移动构造函数]
-    * [emplace_back方法]
-    * [std::thread库]
-    * [智能指针系列]
-    * [线程库+线程同步技术库]
-    * [lamda表达式]
-    * [std::bind/std::function库]
+    * [摘自张小方](#摘自张小方)
 <!-- GFM-TOC -->
 
 
-# C++和C的区别啊
+# C的爸爸和C的区别
+
+## 摘自张小方
 通常情况下，C++ 可以看成是 C 的一个超集。  
 功能上:C++离最初的C越来越远。  
 语法上:大多数C++语法与C一致，所谓的C++面向对象，如果细究C++类方法的具体语法还是C的过程式语法。
@@ -80,7 +21,3 @@ C++ 面向对象的语法与C相比较起来，在将高级语言翻译成机器
 第二类：一些基础软件和高级语言的运行时环境，如大型数据库软件、Java虚拟机、C#的 CLR 运行时、python编译器和运行时环境等等；  
 第三类：一些业务型应用软件的后台，如游戏的服务器后台，例如魔兽世界的服务器（代码地址：https://github.com/azerothcore/azerothcore-wotlk）
 和一些企业内部的应用系统。  
-——————————  
-作者：张小方
-链接：https://www.zhihu.com/question/23534399/answer/615561123
-来源：知乎
