@@ -1,6 +1,6 @@
 | Ⅰ | Ⅱ | Ⅲ | Ⅳ | Ⅴ | Ⅵ | Ⅶ | Ⅷ | Ⅸ | Ⅹ |
 | :--------: | :---------: | :---------: | :---------: | :---------: | :---------:| :---------: | :-------: | :-------:| :------:|
-| 算法 [:bowtie:](#bowtie-算法)| 每日英语 [:couple:](#couple-每日英语)| C++ [:grimacing:](#grimacing-C++)| Python [:snake:](#snake-Python)| Java  [:coffee:](#coffee-java)| 数据库 [:floppy_disk:](#floppy_disk-数据库) | 操作系统 [:computer:](#computer-操作系统)| 网络 [:cloud:](#cloud-网络)| 组原 [:nut_and_bolt:](#nut_and_bolt-机原) | 工具 [:hammer:](#hammer-工具)|
+| 算法 [:bowtie:](#bowtie-算法)| 英语 [:couple:](#couple-每日英语)| C++ [:grimacing:](#grimacing-C++)| Python [:snake:](#snake-Python)| Java  [:coffee:](#coffee-java)| 数据库 [:floppy_disk:](#floppy_disk-数据库) | 操作系统 [:computer:](#computer-操作系统)| 网络 [:cloud:](#cloud-网络)| 组原 [:nut_and_bolt:](#nut_and_bolt-机原) | 工具 [:hammer:](#hammer-工具)|
 <br>
 
 | Ⅺ | Ⅻ | XIII | XIV |
@@ -11,7 +11,8 @@
 
 ### :bowtie: 算法
 - [Leetcode 题解](https://github.com/Gongyihang/HelloWorld/blob/master/Leetcode/leetcode.md)
-### :couple:每日英语
+### :couple:英语
+- [每日一句](https://github.com/Gongyihang/HelloWorld/blob/master/English/English.md)
 ### :grimacing:C++
 ### :snake:Python
 ### :coffee:Java
