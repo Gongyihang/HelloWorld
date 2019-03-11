@@ -1,23 +1,18 @@
-<!-- GFM-TOC -->
-* [2019年3月](#2019年3月)
-    * [C和C++的区别](#c和c++的区别)
-* [C++11常用知识点](#c++11常用知识点)
-    * [auto关键字]
-    * [override关键字]
-    * [final关键字]
-    * [delete关键字]
-    * [for-each循环]
-    * [右值及移动构造函数]
-    * [emplace_back方法]
-    * [std::thread库]
-    * [智能指针系列]
-    * [线程库+线程同步技术库]
-    * [lamda表达式]
-    * [std::bind/std::function库]
-<!-- GFM-TOC -->
-
-
-# 2019年3月
+# Contents
+- [C和C++的区别](#c和c++的区别)  
+- [C++11常用知识点](#c++11常用知识点)  
+    * [auto关键字]  
+    * [override关键字]  
+    * [final关键字]  
+    * [delete关键字]  
+    * [for-each循环]  
+    * [右值及移动构造函数]  
+    * [emplace_back方法]  
+    * [std::thread库]  
+    * [智能指针系列]  
+    * [线程库+线程同步技术库]  
+    * [lamda表达式]  
+    * [std::bind/std::function库]  
 
 ## C和C++的区别
 通常情况下，C++ 可以看成是 C 的一个超集。  
