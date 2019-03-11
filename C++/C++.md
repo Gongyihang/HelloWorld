@@ -37,3 +37,15 @@ C++ 面向对象的语法与C相比较起来，在将高级语言翻译成机器
 
 
 # C的爸爸常用知识点
+## auto关键字
+## override关键字
+## final关键字
+## delete关键字
+## for-each循环
+## 右值及移动构造函数
+## emplace_back方法
+## std::thread库
+## 智能指针系列
+## 线程库+线程同步技术库
+## lamda表达式
+## std::bind/std::function库
