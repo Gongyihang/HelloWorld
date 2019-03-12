@@ -1,13 +1,13 @@
 <!-- GFM-TOC -->
 * [2019年3月](#2019年3月)
-    * [11\.Monday\.Sunny](#11\.Monday\.Sunny)
-    * [12\.Tuesday\.Sunny](#12\.Tuesday\.Sunny)
+    * [11-Monday-Sunny](#11-Monday-Sunny)
+    * [12-Tuesday-Sunny](#12-Tuesday-Sunny)
 <!-- GFM-TOC -->
 
 
 # 2019年3月
 
-## 11\.Monday\.Sunny
+## 11-Monday-Sunny
 
 There is a kind of person,who never tries anything in his life.
 
@@ -42,7 +42,7 @@ Who is qualified to say that your life is not successful?
 
 
 
-## 12\.Tuesday\.Sunny
+## 12-Tuesday-Sunny
 
 If you become more and more silence.  
 
