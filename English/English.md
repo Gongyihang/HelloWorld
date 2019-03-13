@@ -68,3 +68,30 @@ You just become more and more mature.
 见过很多人  
 
 你只是变得越来越成熟而已。
+
+
+## 13-Wednesday-Sunny
+
+Promise me.  
+
+Never look back, never settle down.  
+
+It'll stop raining.  
+
+It'll be sunny.  
+
+Nothing's gonna be so bad.  
+
+You have to force yourself to be good, and then be proud of your life.  
+
+答应我  
+
+往事不回头，今后不将就  
+
+雨会停  
+
+天会晴  
+
+没什么事会糟糕透顶  
+
+你要逼自己优秀，然后傲娇的生活  
