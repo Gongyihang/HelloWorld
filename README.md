@@ -13,7 +13,7 @@
 - [Leetcode 题解](https://github.com/Gongyihang/HelloWorld/blob/master/Leetcode/leetcode.md)
 ### :couple: 英语
 - [每日一句](https://github.com/Gongyihang/HelloWorld/blob/master/English/English.md)
-### :grimacing: C++
+### :grimacing: C爸爸
 - [C爸爸](https://github.com/Gongyihang/HelloWorld/blob/master/C%2B%2B/C%2B%2B.md)
 ### :snake: Python
 ### :coffee: Java
