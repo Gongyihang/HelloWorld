@@ -96,3 +96,30 @@ You have to force yourself to be good, and then be proud of your life.
 没什么事会糟糕透顶  
 
 你要逼自己优秀，然后傲娇的生活  
+
+
+## 14-Thursday-Sunny
+
+Slow down.  
+
+And realize what maks you happy.  
+
+What you really want to do.  
+
+Rather then what makes everyone else happy.  
+
+Live your own way.  
+
+It's the most correct choice.  
+
+放慢脚步  
+
+好好想想什么事情能让你感到快乐  
+
+和你真正想要做什么  
+
+而不是怎么去取悦别人  
+
+活出自己的方式  
+
+才是最正确的选择
