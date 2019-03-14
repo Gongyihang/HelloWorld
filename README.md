@@ -19,7 +19,7 @@
 ### :floppy_disk: 数据库
 ### :computer: 操作系统
 ### :cloud: 网络
-### :couple: 组原
+### :nut_and_bolt: 组原
 ### :hammer: 工具 
 ### :snowboarder: 编码实践
 ### :mortar_board: 机器学习
