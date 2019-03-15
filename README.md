@@ -25,5 +25,6 @@
 ### :snowboarder: 编码实践
 ### :mortar_board: 机器学习
 ### :memo: 读书笔记
+- [读书笔记](https://github.com/Gongyihang/HelloWorld/blob/master/Reading Notes/Reading Notes.md)
 ### :paperclip: 论文笔记
 #### About
