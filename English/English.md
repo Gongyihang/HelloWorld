@@ -138,6 +138,16 @@ Everything you are avoiding now will someday make you regret.
 
 Trust me.  
 
+有时候我们必须勇敢  
 
+因为生命就只有这一次  
+
+哪有那么多时间用来说：我不会或者我害怕  
+
+你现在逃避的每一件事情  
+
+都会在未来的某一天让你后悔  
+
+相信我  
 
 
