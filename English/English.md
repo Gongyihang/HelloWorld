@@ -123,4 +123,21 @@ It's the most correct choice.
 
 活出自己的方式  
 
-才是最正确的选择
+才是最正确的选择  
+
+
+## 16-Saturday-Sunny  
+
+Sometimes we have to be bold.  
+
+Because there's only one life.  
+
+There's not enough time to say that "I can't" or "I was scared".  
+
+Everything you are avoiding now will someday make you regret.  
+
+Trust me.  
+
+
+
+
