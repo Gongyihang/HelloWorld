@@ -389,5 +389,8 @@ CPU状态
 内存地址空间  
 
 ##### 进程创建  
+windows：creatprocess  
+unix：fork/exec  
+
 ##### 进程加载  
 ##### 进程等待与退出  
