@@ -712,7 +712,5 @@ Eisenberg和McGuire
 
 信号量和PV操作
 
-
 P是当资源小于0时  
 V是当资源小于等于0时  
-
